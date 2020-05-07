@@ -1,3 +1,6 @@
 [submodule "student-management-server"]
 	path = student-management-server
 	url = https://github.com/proffesergio/student-management-server.git
+[submodule "course-management-server"]
+	path = course-management-server
+	url = https://github.com/proffesergio/course-management-server.git
