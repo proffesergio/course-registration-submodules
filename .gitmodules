@@ -4,3 +4,12 @@
 [submodule "course-management-server"]
 	path = course-management-server
 	url = https://github.com/proffesergio/course-management-server.git
+[submodule "discovery-server"]
+	path = discovery-server
+	url = https://github.com/proffesergio/discovery-server.git
+[submodule "gateway-server"]
+	path = gateway-server
+	url = https://github.com/proffesergio/gateway-server.git
+[submodule "spring-student-frontend"]
+	path = spring-student-frontend
+	url = https://github.com/proffesergio/spring-student-frontend.git
